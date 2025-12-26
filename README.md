@@ -23,7 +23,7 @@
 
 ## 🧐 About Me
 
-I am a B.Tech student at **IIITDM Jabalpur** . I specialize in building Computer Vision models for drones and developing RAG-based LLM applications.
+I am a Pre-Final Year B.Tech student at **IIITDM Jabalpur** . I specialize in building Computer Vision models for drones and developing RAG-based LLM applications.
 
 - 🔭 I’m currently working on **Machine Learning & Computer Vision**
 - 🌱 I’m currently learning  **Deep Learning & Natural Language Processing (NLP)**
