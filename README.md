@@ -54,6 +54,3 @@ I am a Pre-Final Year B.Tech student at **IIITDM Jabalpur** . I specialize in bu
 
 ---
 
-<p align="center">
-  <i>"Combining Code with Athletics."</i>
-</p>
