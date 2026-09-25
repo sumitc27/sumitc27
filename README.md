@@ -16,7 +16,7 @@
 B.Tech Mechanical Engineering student at **IIITDM Jabalpur** ('27) who ended up living in AI/ML — Computer Vision, RAG pipelines, and autonomous agents. Three internships in, with an ASME IMECE 2025 publication and a filed patent on the manufacturing side, and a growing habit of shipping projects with actual measured benchmarks instead of just demos.
 
 - 🤖 Recently shipped **HIreSense** — Real-time voice AI interview coach
-- 🌱 Deepening AI Agents + MLOPs + COmputer Vision
+- 🌱 Deepening AI Agents + MLOPs + Computer Vision
 - 🏆 HackByte 3.0 runner-up (Duality AI track) · SAEINDIA Aerothon 2024 winner (autonomous UAV)
 
 ---
@@ -42,10 +42,4 @@ B.Tech Mechanical Engineering student at **IIITDM Jabalpur** ('27) who ended up 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitc27&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-<p align="center"><i>Off the keyboard: Coordinating the Athletics Club at IIITDMJ and leaded the ML Team at Aero Fabrication Club, IIITDMJ.</i></p>
+<p align="center"><i>**Off the keyboard**: Coordinating the Athletics Club at IIITDMJ and leaded the ML Team at Aero Fabrication Club, IIITDMJ.</i></p>
