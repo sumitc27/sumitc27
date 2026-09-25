@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Chouhan</h1>
+<h1 align="center">Hi there👋, I'm Sumit Chouhan</h1>
 <h3 align="center">AI/ML Engineer building production GenAI, Computer Vision & Agentic systems</h3>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 B.Tech Mechanical Engineering student at **IIITDM Jabalpur** ('27) who ended up living in AI/ML — Computer Vision, RAG pipelines, and autonomous agents. Three internships in, with an ASME IMECE 2025 publication and a filed patent on the manufacturing side, and a growing habit of shipping projects with actual measured benchmarks instead of just demos.
 
-- 🤖 Recently shipped **HIreSense** — LangGraph agent with a hand-built MCP server and huma
-- 🌱 Deepening NLP + LLMOps, and AI chatbot
-- 🏆 SAEINDIA Aerothon 2024 winner (autonomous UAV) · HackByte 3.0 runner-up (Duality AI track)
+- 🤖 Recently shipped **HIreSense** — Real-time voice AI interview coach
+- 🌱 Deepening AI Agents + MLOPs + COmputer Vision
+- 🏆 HackByte 3.0 runner-up (Duality AI track) · SAEINDIA Aerothon 2024 winner (autonomous UAV)
 
 ---
 
@@ -43,14 +43,9 @@ B.Tech Mechanical Engineering student at **IIITDM Jabalpur** ('27) who ended up 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitc27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumit's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitc27&theme=tokyonight&hide_border=true" alt="Sumit's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitc27&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
 
-<p align="center"><i>Off the keyboard: co-coordinating the Athletics Club at IIITDMJ and leading the ML sub-team at Aero Fabrication Club.</i></p>
+<p align="center"><i>Off the keyboard: Coordinating the Athletics Club at IIITDMJ and leaded the ML Team at Aero Fabrication Club, IIITDMJ.</i></p>
